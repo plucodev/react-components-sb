@@ -9,6 +9,10 @@
   "author": "Paolo Lucano",
   "license": "ISC",
   "dependencies": {
-    "react": "^16.8.6"
+    "@babel/core": "^7.4.4",
+    "@storybook/react": "^5.0.11",
+    "babel-loader": "^8.0.6",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   }
 }
